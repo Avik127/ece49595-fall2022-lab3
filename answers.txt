@@ -1,3 +1,0 @@
-1. In a non-Agile project, the Product Owner is equivalent to the exective lead of the product development process.
-This person would manage the completion of tasks by members of his team and set priorities for tasks to obtain successul 
-implementation of the product.
