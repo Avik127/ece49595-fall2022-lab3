@@ -1,7 +1,0 @@
-1. In a non-Agile project, the Product Owner is equivalent to the exective lead of the product development process.
-This person would manage the completion of tasks by members of his team and set priorities for tasks to obtain successul 
-implementation of the product.
-
-2. He ensures that the scrum framework is followed. Therefore, he must host standups, sprint planning meetings, and sprint reviews.
-He could also hold 1-on-1 meetings to get bettwe information from individuals who are assigned responsiblities of specific issues.
-He must work as the administerator of the scrum board.
